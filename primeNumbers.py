@@ -4,7 +4,7 @@ Created on Tue Oct  4 10:28:43 2022
 
 @author: Vincent Medrano
 
-Prime xbers from 1 - 1000 using list comprehension
+Prime numbers between 1 and 1000 with total amount.
 """
 
 start = 2
